@@ -1,3 +1,3 @@
 echo "Installing Figlet"
-sudo apt-get update
-sudo apt-get install figlet
+sudo apt update
+sudo apt install figlet
